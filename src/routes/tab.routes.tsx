@@ -26,7 +26,7 @@ export default function TabRoutes() {
       initialRouteName="Home"
       appearance={{
         floating: true,
-        tabBarBackground: theme.colors.primary,
+        tabBarBackground: theme.colors.primary_light,
         whenActiveShow: TabElementDisplayOptions.BOTH,
         dotSize: DotSize.SMALL,
       }}
